@@ -1,4 +1,4 @@
-# 👁️ ColorVision — Real-Time Colour Accessibility Tool
+# 👁️ colorvision — Real-Time Colour Accessibility Tool
 
 ![Workday Hackathon](https://img.shields.io/badge/Workday_%C3%97_CS%2B%2B_Hackathon-Winner-0051C8?style=for-the-badge&logo=workday&logoColor=white)
 ![Best Innovation Award](https://img.shields.io/badge/Award-Best_Innovation_1st_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
